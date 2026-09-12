@@ -17,7 +17,7 @@
     en code/../scripts  ejecutar python plot_generator.py , estos scripts toman el archivo results,csv para generar el grafico y la tabla que se imrpimira por consola y esa la copie despues en latex.
 
 
-
+https://github.com/ShirouXz/Tarea-1-INF-221.git // Se encuentra la entrega de la tarea 1.
 
 # Documentación
 Las fuentes de los algoritmos se encuentran en cad aalgoritmo respectivamente.
